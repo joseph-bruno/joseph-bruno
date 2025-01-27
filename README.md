@@ -13,7 +13,7 @@ As a military veteran and experienced fiduciary, I am transitioning into cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| LetsDefend SOC Analyst SIEM Analysis (Medium Write-Ups)  | <a href="https://medium.com/@jbruno_">LetsDefend SOC Analyst</a>|
+| LetsDefend SOC Analyst SIEM Events  | <a href="https://medium.com/@jbruno_">LetsDefend Post Incident Reports (Medium)</a>|
 | SIEM Implementation and Log Analysis          | <a hhref="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hhref="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -48,7 +48,7 @@ As a military veteran and experienced fiduciary, I am transitioning into cyberse
 </div>
 
 ## Projects
-- <a href="https://medium.com/@jbruno_">LetsDefend SOC Analyst</a>
+- <a href="https://medium.com/@jbruno_">LetsDefend Post Incident Reports (Medium)</a>|
 - Detection Lab
 - SOC Automation Project
 

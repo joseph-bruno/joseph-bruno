@@ -48,7 +48,7 @@ As a military veteran and experienced fiduciary, I am transitioning into cyberse
 </div>
 
 ## Projects
-- LetsDefend SOC Analyst SIEM Analysis (Medium Write-Ups)
+- <a href="https://medium.com/@jbruno_">LetsDefend SOC Analyst</a>
 - Detection Lab
 - SOC Automation Project
 

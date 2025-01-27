@@ -3,11 +3,11 @@
 
 ## Brief Introduction
 
-I am a Highly motivated and detail-oriented professional transitioning into cybersecurity with a decade of military leadership and four years of financial risk management experience.
+I am a mission-focused professional with a decade of leadership experience as a U.S. Navy helicopter search-and-rescue swimmer and four years managing financial risks for high-net-worth clients as a fiduciary at a Registered Investment Advisor. I am now leveraging my expertise in risk management, problem-solving, and operational security to transition into a career in cybersecurity.
 
 ## Objective
 
-As a military veteran and current fiduciary in wealth management, I am eager to transition into cybersecurity with a focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst. My diverse experience equips me with a unique perspective on risk management and problem-solving, and I am committed to leveraging my skills to contribute effectively in the cybersecurity field.
+As a military veteran and experienced fiduciary, I am transitioning into cybersecurity aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst. My background in risk management and problem-solving uniquely positions me to identify and mitigate threats effectively.
 
 ## Skills
 

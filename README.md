@@ -9,7 +9,7 @@ I am a mission-focused professional with a decade of leadership experience as a 
 
 As a military veteran and experienced fiduciary, I am transitioning into cybersecurity aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst. My background in risk management and problem-solving uniquely positions me to identify and mitigate threats effectively.
 
-## Skills
+## Skills [Ongoing]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|

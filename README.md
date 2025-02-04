@@ -49,7 +49,7 @@ As a military veteran and experienced fiduciary, I am transitioning into cyberse
 </div>
 
 ## Projects
-- <a href="https://medium.com/@jbruno_">LetsDefend Post Incident Reports (Medium)</a>|
+- <a href="https://medium.com/@jbruno_">LetsDefend Post Incident Reports (Medium)</a>
 - Home Detection Lab
 - SOC Automation Project
 

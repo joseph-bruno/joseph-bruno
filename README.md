@@ -3,7 +3,7 @@
 
 ## Brief Introduction
 
-I am a mission-focused professional with a decade of leadership experience as a U.S. Navy helicopter search-and-rescue swimmer and four years managing financial risks for high-net-worth clients as a fiduciary at a Registered Investment Advisor. I am now leveraging my expertise in risk management, problem-solving, and operational security, combined with a lifelong passion for computer science to transition into a career in cybersecurity.
+I am a mission-focused professional with a decade of leadership experience as a U.S. Navy helicopter search-and-rescue swimmer and five years managing financial risks for high-net-worth clients as a fiduciary at a Registered Investment Advisor. I am now leveraging my expertise in risk management, problem-solving, and operational security, combined with a lifelong passion for computer science to transition into a career in cybersecurity.
 
 ## Objective
 

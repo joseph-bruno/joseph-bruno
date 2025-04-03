@@ -15,7 +15,7 @@ As a military veteran and experienced fiduciary, I am transitioning into cyberse
 |-----------------------------------------------|----------------------------|
 | LetsDefend SOC Analyst SIEM Events  | <a href="https://medium.com/@jbruno_">LetsDefend Post Incident Reports (Medium)</a>|
 | Establishing Home Lab (VirtualBox)          | <a href="https://github.com/joseph-bruno/Detection-Lab/tree/main">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a hhref="https://google.com">Detection Lab</a>|
+| LimaCharlie & Tines SOAR EDR Automation     | <a href="https://github.com/joseph-bruno/SOAR-EDR-Project/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a hhref="https://google.com">Detection Lab</a>|
 | Security Automation                             | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -32,6 +32,8 @@ As a military veteran and experienced fiduciary, I am transitioning into cyberse
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-00A4EF?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+
 </div>
 
 ### SIEM
@@ -50,6 +52,6 @@ As a military veteran and experienced fiduciary, I am transitioning into cyberse
 
 ## Projects
 - <a href="https://medium.com/@jbruno_">LetsDefend Post Incident Reports (Medium)</a>
-- <a href="https://github.com/joseph-bruno/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/joseph-bruno/SOAR-EDR-Project/tree/main">Detection Lab</a>
+
 

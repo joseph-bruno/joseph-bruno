@@ -1,57 +1,29 @@
-# Hello, I'm Joe
-<a href="https://www.linkedin.com/in/jmb20"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Joseph Bruno
 
-## Brief Introduction
+**Vulnerability Engineer** · GIAC GSEC | GCIH | GFACT · B.S. Applied Cybersecurity candidate, SANS Technology Institute
 
-I am a mission-focused professional with a decade of leadership experience as a U.S. Navy helicopter search-and-rescue swimmer and five years managing financial risks for high-net-worth clients as a fiduciary at a Registered Investment Advisor. I am now leveraging my expertise in risk management, problem-solving, and operational security, combined with a lifelong passion for computer science to transition into a career in cybersecurity.
+I own vulnerabilities from finding to fix. I triage findings, validate them against source code, research remediations, and work with development teams until the fix ships. When a new threat emerges, I assess exposure and drive the response.
 
-## Objective
+Before security, I spent a decade as a U.S. Navy helicopter search-and-rescue swimmer and five years as a fiduciary managing financial risk for high-net-worth clients (FINRA Series 65). Both careers came down to the same thing I do now: assess risk under pressure, prioritize what matters, and execute.
 
-As a military veteran and experienced fiduciary, I am transitioning into cybersecurity aspiring to join a Security Operations Center (SOC) as a Tier 1 Analyst. My background in risk management and problem-solving uniquely positions me to identify and mitigate threats effectively.
-
-## Skills [Ongoing]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| LetsDefend SOC Analyst SIEM Events  | <a href="https://medium.com/@jbruno_">LetsDefend Post Incident Reports (Medium)</a>|
-| Establishing Home Lab (VirtualBox)          | <a href="https://github.com/joseph-bruno/Detection-Lab/tree/main">Detection Lab</a>|
-| LimaCharlie & Tines SOAR EDR Automation     | <a href="https://github.com/joseph-bruno/SOAR-EDR-Project/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a hhref="https://google.com">Detection Lab</a>|
-| Security Automation                             | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management                               | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LimaCharlie-00A4EF?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
-
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+## Currently
+- Vulnerability Engineer
+- About one year into the SANS.edu Bachelor's in Applied Cybersecurity (BACS)
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-000080?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-FINRA_Series_65-FF0000?&style=for-the-badge&logo=FINRA&logoColor=white" />
+- **GCIH**: GIAC Certified Incident Handler
+- **GSEC**: GIAC Security Essentials
+- **GFACT**: GIAC Foundational Cybersecurity Technologies
+- **Security+**: CompTIA
 
-</div>
+[Verify on Credly →](https://www.credly.com/users/joseph-bruno.a0d7faf2/badges/credly)
 
-## Projects
-- <a href="https://medium.com/@jbruno_">LetsDefend Post Incident Reports (Medium)</a>
-- <a href="https://github.com/joseph-bruno/SOAR-EDR-Project/tree/main">Detection Lab</a>
+## Core Skills
+- **Vulnerability Triage and Validation:** reviewing findings, ruling out false positives, and confirming true positives in source code repositories
+- **Remediation Engineering:** researching fixes and working with development teams to prioritize, implement, and verify them
+- **Asset Inventory Management:** keeping an accurate inventory so coverage and ownership are complete
+- **Emerging Threat Response:** assessing exposure to newly disclosed vulnerabilities and coordinating fast remediation
+- **Incident Handling:** attacker techniques, exploitation, detection and response
 
-
+## Connect
+[LinkedIn](https://linkedin.com/in/[handle])
